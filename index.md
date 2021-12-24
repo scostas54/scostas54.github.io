@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Scostas Resume
 
 You can use the [editor on GitHub](https://github.com/scostas54/scostas54.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,8 +23,20 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and 
+
+![Apollo_Image](https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2019/07/09/5fa52d24adc0d.jpeg)
+
+<img src="https://wallpaperaccess.com/full/1631731.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 ```
+
+![Apollo_Image](https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2019/07/09/5fa52d24adc0d.jpeg)
+
+<img src="https://wallpaperaccess.com/full/1631731.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
