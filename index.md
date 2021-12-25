@@ -1,4 +1,7 @@
-## Scostas Resume
+## Samuel Costas' Portfolio
+
+I am a Mechanical and Project engineer. My passion is building different software and electronics projects.
+Check out my side-projects below.
 
 You can use the [editor on GitHub](https://github.com/scostas54/scostas54.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
