@@ -37,12 +37,16 @@ The purpose is to act directly on these variables through the use of different d
 
 <table>
   <tr>
-    <td><img src="https://drive.google.com/uc?export=view&id=1lckodjqgPnASNYDFuCkUAGjMT8MpJpJC" alt="1" width = 400px></td>    
+    <td><img src="https://drive.google.com/uc?export=view&id=1yMX5zxBrfOC6z4vaUgkRBVl2oivkjMTY" alt="1" width = 650px></td>
+    <td><img src="https://drive.google.com/uc?export=view&id=18TXGzmk0s2qLfhLgw47s4Yce2X8LF-4_" alt="2" width = 650px></td>
    </tr> 
    <tr>
-      <td><img src="https://drive.google.com/uc?export=view&id=1snk4FFNHdyghvBcBQ0uam_Zl-F82w67O" alt="3" width = 650px></td>
-      <td><img src="https://drive.google.com/uc?export=view&id=1biuOsKzwus5In8cLqJbGgNJqkEDGb97-" align="left" alt="4" width = 650px></td>
+      <td><img src="https://drive.google.com/uc?export=view&id=1DvrTNQu4ngFWiFgICWopdQbHb2gpRxN0" alt="3" width = 650px></td>
+      <td><img src="https://drive.google.com/uc?export=view&id=L6OehncZMPad3AiDLBdW0x75fDrfj0" alt="4" width = 650px></td>
   </tr>
+   <tr>
+      <td><img src="https://drive.google.com/uc?export=view&id=1cW-UZmOjdvImH3ErONZnlas5ZIiO6nVH" alt="3" width = 650px></td>
+   </tr>
 </table>
 
 The collection of data for a later analysis is also a purpose of this project, for this the ESP32 sends, through the WIFI network, the data collected by the sensors to a database in MariaDB through an Apache HTTP Server mounted on a raspberry pi.
