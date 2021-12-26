@@ -1,21 +1,24 @@
-## Projects Index:
+# Samuel Costas' Portfolio
 
-- [Automated Greenhouse Project](https://github.com/scostas54/Greenhouse_Project)
+## Projects Index
+
+- [Automated Greenhouse Project](#automated-greenhouse-project)
 - Total Flatness Analysis of Optical Element
 - Servo Motors Control through Android Mobile App
 - Other Small Projects
 
+### Contact me
 <table>
   <tr>
-    <td>Emil</td>
-    <td>Tobias</td>
+    <td><img src="https://drive.google.com/uc?export=view&id=1QA5wfyIx0F-cwll2CzRn5zFvO2czkHH5" alt="1" width= 250px link= "https://www.linkedin.com/in/samuel-costas-951894110/"></td>
+    <td>[![alt text][https://drive.google.com/uc?export=view&id=1QA5wfyIx0F-cwll2CzRn5zFvO2czkHH5]][https://www.linkedin.com/in/samuel-costas-951894110/]</td>
     <td>Linus</td>
   </tr>
 </table>
 
-Contact me [GitHub](https://github.com/scostas54) 
+ [GitHub](https://github.com/scostas54) 
 
-
+___
 ## Projects Overview
 
 ### [Automated Greenhouse Project](https://github.com/scostas54/Greenhouse_Project)
