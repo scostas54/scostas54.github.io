@@ -9,7 +9,6 @@
 
 ### Contact me
 <table>
-  <border: none>
   <tr>
     <td><a href="https://www.linkedin.com/in/samuel-costas-951894110/"><img src="https://drive.google.com/uc?export=view&id=1QA5wfyIx0F-cwll2CzRn5zFvO2czkHH5" alt="1" width= 150px></a></td>
     <td><a href="https://github.com/scostas54"><img src="https://drive.google.com/uc?export=view&id=1KqEVYzgD2Na5WlGWnVlG5EMl4tMfSnUc" alt="1" width= 150px></a></td>
@@ -26,14 +25,28 @@ The purpose of this project is to develop an automated and easy-to-use greenhous
 
 <table>
   <tr>
-    <td><img src="https://drive.google.com/uc?export=view&id=1lckodjqgPnASNYDFuCkUAGjMT8MpJpJC" alt="1" width = 400px></td>
-    <td><img src="https://drive.google.com/uc?export=view&id=1nltS3kl2ppDpbmNlJKRaGdaQvF9etXoe" alt="2" width = 650px></td>
+    <td><img src="https://drive.google.com/uc?export=view&id=1lckodjqgPnASNYDFuCkUAGjMT8MpJpJC" alt="1" width = 400px></td>    
    </tr> 
    <tr>
       <td><img src="https://drive.google.com/uc?export=view&id=1snk4FFNHdyghvBcBQ0uam_Zl-F82w67O" alt="3" width = 650px></td>
       <td><img src="https://drive.google.com/uc?export=view&id=1biuOsKzwus5In8cLqJbGgNJqkEDGb97-" align="left" alt="4" width = 650px></td>
   </tr>
 </table>
+
+The system has many different sensors to monitor different parameters such as humidity, temperature, CO2 ...
+The purpose is to act directly on these variables through the use of different devices such as fans, humidifiers and custom led panels. These sensors are controlled with an **ESP32**, this microcontroller has integrated Wifi and the threshold of the sensors can be changed by means of an HTTP request through an Internet browser.
+
+<table>
+  <tr>
+    <td><img src="https://drive.google.com/uc?export=view&id=1lckodjqgPnASNYDFuCkUAGjMT8MpJpJC" alt="1" width = 400px></td>    
+   </tr> 
+   <tr>
+      <td><img src="https://drive.google.com/uc?export=view&id=1snk4FFNHdyghvBcBQ0uam_Zl-F82w67O" alt="3" width = 650px></td>
+      <td><img src="https://drive.google.com/uc?export=view&id=1biuOsKzwus5In8cLqJbGgNJqkEDGb97-" align="left" alt="4" width = 650px></td>
+  </tr>
+</table>
+
+The collection of data for a later analysis is also a purpose of this project, for this the ESP32 sends, through the WIFI network, the data collected by the sensors to a database in MariaDB through an Apache HTTP Server mounted on a raspberry pi.
 
 ```markdown
 Syntax highlighted code block
