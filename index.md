@@ -13,7 +13,7 @@
   <tr>
     <td><a href="https://www.linkedin.com/in/samuel-costas-951894110/"><img src="https://drive.google.com/uc?export=view&id=1QA5wfyIx0F-cwll2CzRn5zFvO2czkHH5" alt="1" width= 150px></a></td>
     <td><a href="https://github.com/scostas54"><img src="https://drive.google.com/uc?export=view&id=1KqEVYzgD2Na5WlGWnVlG5EMl4tMfSnUc" alt="1" width= 150px></a></td>
-    <td><a href="scostas54@gmail.com"><img src="https://drive.google.com/uc?export=view&id=1nu9m4T5K-Wnqu_hrrdWHRTkPrxljKmJm" alt="1" width= 150px></a></td>
+    <td><a href="mailto:scostas54@gmail.com" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1nu9m4T5K-Wnqu_hrrdWHRTkPrxljKmJm" alt="1" width= 150px></a></td>
   </tr>
 </table>
 
