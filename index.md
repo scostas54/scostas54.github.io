@@ -2,7 +2,7 @@
 
 ## Projects Index
 
-- [Automated Greenhouse Project](#automated-greenhouse-project)
+- [Automated Hydroponics Greenhouse Project](#automated-greenhouse-project)
 - Total Flatness Analysis of Optical Element
 - Servo Motors Control through Android Mobile App
 - Other Small Projects
@@ -19,9 +19,9 @@
 ___
 ## Projects Overview
 
-### [Automated Greenhouse Project](https://github.com/scostas54/Greenhouse_Project)
+### [Automated Hydroponics Greenhouse Project](https://github.com/scostas54/Greenhouse_Project)
 
-The purpose of this project is to develop an automated and easy-to-use greenhouse. This greenhouse can be used in small apartments to grow fresh vegetables quickly and easily.
+The purpose of this project is to develop an automated and easy-to-use hydroponic greenhouse. This greenhouse can be used in small apartments to grow fresh vegetables quickly and easily.
 
 <table>
   <tr>
@@ -33,8 +33,9 @@ The purpose of this project is to develop an automated and easy-to-use greenhous
   </tr>
 </table>
 
-The system has many different sensors to monitor different parameters such as humidity, temperature, CO2 ...
-The purpose is to act directly on these variables through the use of different devices such as fans, humidifiers and custom led panels. These sensors are controlled with an **ESP32**, this microcontroller has integrated Wifi and the threshold of the sensors can be changed by means of an HTTP request through an Internet browser.
+The system has many different sensors to monitor different parameters such as humidity, temperature, CO2...
+
+The purpose is to act directly on these variables through the use of different devices such as fans, humidifiers and custom led panels. There is also a small water pump that moves the water continusiously to avoid the formation of biological sediments. These sensors are controlled with an **ESP32**, this microcontroller has integrated WIFI and the threshold of the sensors can be changed by means of an HTTP request through an Internet browser.
 
 <table>
   <tr>
