@@ -1,9 +1,17 @@
-## Samuel Costas' Portfolio
-
 I am a Mechanical and Project engineer. My passion is building different software and electronics projects.
 Check out my side-projects below.
 
-You can use the [editor on GitHub](https://github.com/scostas54/scostas54.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Contact me [GitHub](https://github.com/scostas54) 
+
+## Project Index:
+
+- [Automated Greenhouse Project](https://github.com/scostas54/Greenhouse_Project)
+- Total Flatness Analysis of Optical Element
+- Servo Motors Control through Android Mobile App
+- Other Small Projects
+
+
+### [Automated Greenhouse Project](https://github.com/scostas54/Greenhouse_Project)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
