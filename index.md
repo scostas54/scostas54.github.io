@@ -1,5 +1,3 @@
-# Samuel Costas' Portfolio
-
 ## Projects Index
 
 - [Automated Hydroponics Greenhouse Project](#automated-greenhouse-project)
