@@ -1,16 +1,17 @@
+
 ## Projects Index
 
 - [Automated Hydroponics Greenhouse Project](#automated-greenhouse-project)
 - [Total Flatness Analysis of Optical Element](#total-flatness-analysis-of-optical-element)
 - Servo Motors Control through Android Mobile App
 - Other Small Projects
-
-### Contact me
+___
+## Contact me!
 <table>
   <tr>
-    <td><a href="https://www.linkedin.com/in/samuel-costas-951894110/"><img src="https://drive.google.com/uc?export=view&id=1QA5wfyIx0F-cwll2CzRn5zFvO2czkHH5" alt="1" width= 150px></a></td>
-    <td><a href="https://github.com/scostas54"><img src="https://drive.google.com/uc?export=view&id=1c6UzlFVSe5ZSTzDTRQ8dqv6RyNZvTVrx" alt="1" width= 150px></a></td>
-    <td><a href="mailto:scostas54@gmail.com" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1Kb9aYAu-mFuBCfIwlxredtIy8SFiuNDq" alt="1" width= 150px></a></td>
+    <td><a href="https://www.linkedin.com/in/samuel-costas-951894110/"><img src="https://drive.google.com/uc?export=view&id=1QA5wfyIx0F-cwll2CzRn5zFvO2czkHH5" alt="1" width= 80px></a></td>
+    <td><a href="https://github.com/scostas54"><img src="https://drive.google.com/uc?export=view&id=1c6UzlFVSe5ZSTzDTRQ8dqv6RyNZvTVrx" alt="1" width= 80px></a></td>
+    <td><a href="mailto:scostas54@gmail.com" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1Kb9aYAu-mFuBCfIwlxredtIy8SFiuNDq" alt="1" width= 80px></a></td>
   </tr>
 </table>
 
@@ -52,7 +53,7 @@ The purpose is to act directly on these variables through the use of different d
 The collection of data for a later analysis is also a purpose of this project, for this the ESP32 sends, through the WIFI network, the data collected by the sensors to a database in MariaDB through an Apache HTTP Server mounted on a Raspberry Pi.
 
 Check the code in the Github Repository --> [Link to Repository](https://github.com/scostas54/Greenhouse_Project)
-
+___
 ### [Total Flatness Analysis of Optical Element](https://github.com/scostas54/Optical-element-total-flatness-analysis)
 
 This MATLAB program that I developed as my final project during my degree in mechanical engenieering, allows to determine the flatness of optical elements such as mirrors or reflectors. Starting from four phase distributions, it gives as a result the deviations with respect to an ideal plane for each surface.
