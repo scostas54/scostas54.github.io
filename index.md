@@ -9,8 +9,8 @@
 <table>
   <tr>
     <td><a href="https://www.linkedin.com/in/samuel-costas-951894110/"><img src="https://drive.google.com/uc?export=view&id=1QA5wfyIx0F-cwll2CzRn5zFvO2czkHH5" alt="1" width= 150px></a></td>
-    <td><a href="https://github.com/scostas54"><img src="https://drive.google.com/uc?export=view&id=1KqEVYzgD2Na5WlGWnVlG5EMl4tMfSnUc" alt="1" width= 150px></a></td>
-    <td><a href="mailto:scostas54@gmail.com" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1nu9m4T5K-Wnqu_hrrdWHRTkPrxljKmJm" alt="1" width= 150px></a></td>
+    <td><a href="https://github.com/scostas54"><img src="https://drive.google.com/uc?export=view&id=1c6UzlFVSe5ZSTzDTRQ8dqv6RyNZvTVrx" alt="1" width= 150px></a></td>
+    <td><a href="mailto:scostas54@gmail.com" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1Kb9aYAu-mFuBCfIwlxredtIy8SFiuNDq" alt="1" width= 150px></a></td>
   </tr>
 </table>
 
@@ -102,9 +102,19 @@ By applying unwrapping to the phase maps, a continuous phase is obtained.
   </tr>
 </table>
 
-That will keep a linear relationship with the magnitude to be measured (distance difference between both arms of the interferometer in our case), this allows us to work in Matlab using these maps as matrices.
+That unwrapping process will keep a linear relationship with the magnitude to be measured (distance difference between both arms of the interferometer in our case), this allows us to work in Matlab using these maps as matrices. By applying the developed algorithm, the result is a 3D plot and matrix that contains the deviation from the reference plane for the mirror under test.
 
-Check the code in the Github Repository --> [Link to Repository](https://github.com/scostas54/Greenhouse_Project)
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/scostas54/Optical-element-total-flatness-analysis/main/Result%20Graphs/4%20franjas%20A.JPG" alt="1" width = 600px></td> 
+    <td><img src="https://raw.githubusercontent.com/scostas54/Optical-element-total-flatness-analysis/main/Result%20Graphs/4%20franjas%20B.JPG" alt="2" width = 600px></td>
+   </tr> 
+   <tr>
+      <td><img src="https://raw.githubusercontent.com/scostas54/Optical-element-total-flatness-analysis/main/Result%20Graphs/4%20franjas%20C.JPG" alt="3" width = 600px></td>
+  </tr>
+</table>
+
+Check the code in the Github Repository --> [Link to Repository](https://github.com/scostas54/Optical-element-total-flatness-analysis)
 
 ```markdown
 Syntax highlighted code block
