@@ -6,6 +6,7 @@
 - Servo Motors Control through Android Mobile App
 - Other Small Projects
 ___
+
 ## Contact me!
 <table>
   <tr>
@@ -16,6 +17,7 @@ ___
 </table>
 
 ___
+
 ## Projects Overview
 
 ### [Automated Hydroponics Greenhouse Project](https://github.com/scostas54/Greenhouse_Project)
@@ -54,6 +56,7 @@ The collection of data for a later analysis is also a purpose of this project, f
 
 Check the code in the Github Repository --> [Link to Repository](https://github.com/scostas54/Greenhouse_Project)
 ___
+
 ### [Total Flatness Analysis of Optical Element](https://github.com/scostas54/Optical-element-total-flatness-analysis)
 
 This MATLAB program that I developed as my final project during my degree in mechanical engenieering, allows to determine the flatness of optical elements such as mirrors or reflectors. Starting from four phase distributions, it gives as a result the deviations with respect to an ideal plane for each surface.
