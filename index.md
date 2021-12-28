@@ -131,10 +131,10 @@ To test the functionality, a simple mechanism was printed with my [Ender-3 3D](h
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/scostas54/Optical-element-total-flatness-analysis/main/Result%20Graphs/4%20franjas%20A.JPG" alt="1" width = 600px></td> 
-    <td><img src="https://raw.githubusercontent.com/scostas54/Optical-element-total-flatness-analysis/main/Result%20Graphs/4%20franjas%20B.JPG" alt="2" width = 600px></td>
+    <td><img src="https://drive.google.com/uc?export=view&id=1YLeX5v57HA1ZY0TJsweDnFQ0ZgBRMMIF" alt="1" width = 600px></td> 
+    <td><img src="https://drive.google.com/uc?export=view&id=1md70AUWeVjVXqKm3HbD7ErXPqtdqvQJl" alt="2" width = 600px></td>
    </tr> 
    <tr>
-      <td><img src="https://raw.githubusercontent.com/scostas54/Optical-element-total-flatness-analysis/main/Result%20Graphs/4%20franjas%20C.JPG" alt="3" width = 600px></td>
+      <td><img src="https://drive.google.com/uc?export=view&id=1bgirZUiLBgP7EXP5LMJPEWFI0CMBMtq9" alt="3" width = 600px></td>
   </tr>
 </table>
