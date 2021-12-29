@@ -1,9 +1,9 @@
 
 # Projects Index
 
-- [Automated Hydroponics Greenhouse Project](#automated-greenhouse-project)
+- [Automated Hydroponics Greenhouse Project](#automated-hydroponics-greenhouse-project)
 - [Total Flatness Analysis of Optical Element](#total-flatness-analysis-of-optical-element)
-- [Servo Motors Control through Android Mobile App](#servo_motors_control_through_android_mobile_app)
+- [Servo Motors Control through Android Mobile App](#servo-motors-control-through-android-mobile-app)
 - Other Small Projects
 
 ___
@@ -28,10 +28,10 @@ The purpose of this project is to develop an automated and easy-to-use hydroponi
 <table>
   <tr>
     <td><img src="https://drive.google.com/uc?export=view&id=1lckodjqgPnASNYDFuCkUAGjMT8MpJpJC" alt="1" width = 400px></td>    
+    <td><img src="https://drive.google.com/uc?export=view&id=1snk4FFNHdyghvBcBQ0uam_Zl-F82w67O" alt="2" width = 650px></td>
    </tr> 
-   <tr>
-      <td><img src="https://drive.google.com/uc?export=view&id=1snk4FFNHdyghvBcBQ0uam_Zl-F82w67O" alt="3" width = 650px></td>
-      <td><img src="https://drive.google.com/uc?export=view&id=1biuOsKzwus5In8cLqJbGgNJqkEDGb97-" align="left" alt="4" width = 650px></td>
+   <tr>      
+    <td><img src="https://drive.google.com/uc?export=view&id=1biuOsKzwus5In8cLqJbGgNJqkEDGb97-" align="left" alt="3" width = 650px></td>
   </tr>
 </table>
 
@@ -56,7 +56,7 @@ The purpose is to act directly on these variables through the use of different d
 The collection of data for a later analysis is also a purpose of this project, for this the ESP32 sends, through the WIFI network, the data collected by the sensors to a database in MariaDB through an Apache HTTP Server mounted on a Raspberry Pi.
 
 Check the code in the Github Repository --> [Link to Repository](https://github.com/scostas54/Greenhouse_Project)
-___
+
 
 ## [Total Flatness Analysis of Optical Element](https://github.com/scostas54/Optical-element-total-flatness-analysis)
 
@@ -70,7 +70,7 @@ In our case we use one of these algorithms, the so-called Schwider-Hariharan. It
 
 <table>
   <tr>
-    <td><img src="https://github.com/scostas54/Optical-element-total-flatness-analysis/blob/main/Original%20Images/AB90patron.jpg" alt="1" width = 600px></td> 
+    <td><img src="https://raw.githubusercontent.com/scostas54/Optical-element-total-flatness-analysis/main/Original%20Images/AB90patron.jpg" alt="1" width = 600px></td> 
     <td><img src="https://raw.githubusercontent.com/scostas54/Optical-element-total-flatness-analysis/main/Original%20Images/ABpatron.jpg" alt="2" width = 600px></td>
    </tr> 
    <tr>
@@ -88,7 +88,7 @@ The intensity values of those images (patterns) are combined and with the applic
    </tr> 
    <tr>
       <td><img src="https://raw.githubusercontent.com/scostas54/Optical-element-total-flatness-analysis/main/Original%20Images/BCmapa.jpg" alt="3" width = 600px></td>
-      <td><img src="https://github.com/scostas54/Optical-element-total-flatness-analysis/blob/main/Original%20Images/CAmapa.jpg"  alt="4" width = 600px></td>
+      <td><img src="https://raw.githubusercontent.com/scostas54/Optical-element-total-flatness-analysis/main/Original%20Images/CAmapa.jpg"  alt="4" width = 600px></td>
   </tr>
 </table>
 
