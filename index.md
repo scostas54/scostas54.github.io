@@ -4,7 +4,7 @@
 - [Automated Hydroponics Greenhouse Project](#automated-hydroponics-greenhouse-project)
 - [Total Flatness Analysis of Optical Element](#total-flatness-analysis-of-optical-element)
 - [Servo Motors Control through Android Mobile App](#servo-motors-control-through-android-mobile-app)
-- Other Small Projects
+- [Other Small Projects](#other-small-projects)
 
 ___
 
@@ -12,8 +12,8 @@ ___
 <table>
   <tr>
     <td><a href="https://www.linkedin.com/in/samuel-costas-951894110/"><img src="https://drive.google.com/uc?export=view&id=1QA5wfyIx0F-cwll2CzRn5zFvO2czkHH5" alt="1" width= 80px></a></td>
-    <td><a href="https://github.com/scostas54"><img src="https://drive.google.com/uc?export=view&id=1c6UzlFVSe5ZSTzDTRQ8dqv6RyNZvTVrx" alt="1" width= 80px></a></td>
-    <td><a href="mailto:scostas54@gmail.com" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1Kb9aYAu-mFuBCfIwlxredtIy8SFiuNDq" alt="1" width= 80px></a></td>
+    <td><a href="https://github.com/scostas54"><img src="https://drive.google.com/uc?export=view&id=1c6UzlFVSe5ZSTzDTRQ8dqv6RyNZvTVrx" align="left" alt="1" width= 80px></a></td>
+    <td><a href="mailto:scostas54@gmail.com" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1Kb9aYAu-mFuBCfIwlxredtIy8SFiuNDq" align="left" alt="1" width= 80px></a></td>
   </tr>
 </table>
 
@@ -28,7 +28,7 @@ The purpose of this project is to develop an automated and easy-to-use hydroponi
 <table>
   <tr>
     <td><img src="https://drive.google.com/uc?export=view&id=1lckodjqgPnASNYDFuCkUAGjMT8MpJpJC" alt="1" width = 400px></td>    
-    <td><img src="https://drive.google.com/uc?export=view&id=1snk4FFNHdyghvBcBQ0uam_Zl-F82w67O" alt="2" width = 650px></td>
+    <td><img src="https://drive.google.com/uc?export=view&id=1snk4FFNHdyghvBcBQ0uam_Zl-F82w67O" align="top" alt="2" width = 650px></td>
    </tr> 
    <tr>      
     <td><img src="https://drive.google.com/uc?export=view&id=1biuOsKzwus5In8cLqJbGgNJqkEDGb97-" align="left" alt="3" width = 650px></td>
@@ -136,3 +136,11 @@ To test the functionality, a simple mechanism was printed with my [Ender-3 3D](h
    </tr> 
 </table>
 <a href="https://www.youtube.com/watch?v=TeB_hDIixrQ&ab_channel=SamuelCostas"><img src="https://drive.google.com/uc?export=view&id=1FBWkYSVbCb_Z1fR5koE5kmyqB-L3u5mE" width= 800px></a>
+
+## Other Small Projects
+
+### [Garage Door](https://github.com/scostas54/Automation-of-a-garage-door-Spanish-)
+This code can be used to atomate a garage door by using an arduino, some relays, an infrared sensor, some switches, pushbuttons and a remote control.
+
+### [SPI Communication](https://github.com/scostas54/SPI-Communication-spanish-Comments)
+This scripts can be used to transmit text information between two arduino boards through an SPI communication.
