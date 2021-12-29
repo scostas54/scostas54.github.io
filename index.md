@@ -134,7 +134,5 @@ To test the functionality, a simple mechanism was printed with my [Ender-3 3D](h
     <td><img src="https://drive.google.com/uc?export=view&id=1YLeX5v57HA1ZY0TJsweDnFQ0ZgBRMMIF" alt="1" width = 600px></td> 
     <td><img src="https://drive.google.com/uc?export=view&id=1md70AUWeVjVXqKm3HbD7ErXPqtdqvQJl" alt="2" width = 600px></td>
    </tr> 
-   <tr>
-      <td><img src="https://drive.google.com/uc?export=view&id=1bgirZUiLBgP7EXP5LMJPEWFI0CMBMtq9" alt="3" width = 600px></td>
-  </tr>
 </table>
+<a href="https://www.youtube.com/watch?v=TeB_hDIixrQ&ab_channel=SamuelCostas"><img src="https://drive.google.com/uc?export=view&id=1FBWkYSVbCb_Z1fR5koE5kmyqB-L3u5mE" width= 800px></a>
