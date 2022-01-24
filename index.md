@@ -55,6 +55,15 @@ The purpose is to act directly on these variables through the use of different d
 
 The collection of data for a later analysis is also a purpose of this project, for this the ESP32 sends, through the WIFI network, the data collected by the sensors to a database in MariaDB through an Apache HTTP Server mounted on a Raspberry Pi.
 
+<table>
+  <tr>
+    <td><img src="https://drive.google.com/uc?export=view&id=160c58ugWzSC6xJpzBJw35az3HxjUCl2s" alt="1" width=1000px></td>    
+   </tr>   
+   <tr>
+    <td><img src="https://drive.google.com/uc?export=view&id=1qjNdEg7ob01mAKtG0ovI8ckvUat34HAT" alt="2" width=1000px></td>    
+   </tr> 
+</table>
+
 Check the code in the Github Repository --> [Link to Repository](https://github.com/scostas54/Greenhouse_Project)
 
 
