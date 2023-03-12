@@ -1,7 +1,7 @@
 
 # Projects Index
 
-- [PID Ball & Beam](#pid-ball-beam)
+- [PID Ball & Beam](#pid-ball-&-beam)
 - [Automated Hydroponics Greenhouse Project](#automated-hydroponics-greenhouse-project)
 - [Total Flatness Analysis of Optical Element](#total-flatness-analysis-of-optical-element)
 - [Servo Motors Control through Android Mobile App](#servo-motors-control-through-android-mobile-app)
