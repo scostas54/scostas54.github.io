@@ -24,25 +24,28 @@ ___
 
 ## [PID Ball & Beam](https://github.com/scostas54/PID-Ball-Beam)
 
-Dynamic systems are systems that change or evolve in time according to a fixed rule. A dynamic system is a system whose current state generates its successive state by a rule or principle of change (the so-called evolution rule) and thus produces a trajectory in a state space.
+Dynamic systems are systems that change or evolve in time according to a fixed rule, therfore, the current state of a dynamic system generates its successive state by a rule or principle of change (the so-called evolution rule) and thus produces a trajectory in a state space.
 
 <a title="Sbyrnes321, CC0, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:QuantumHarmonicOscillatorAnimation.gif"><img width="256" alt="QuantumHarmonicOscillatorAnimation" src="https://upload.wikimedia.org/wikipedia/commons/9/90/QuantumHarmonicOscillatorAnimation.gif"></a>
 
-In this system, te ball rolls on the beam without slipping under the action of the force of gravity. The beam is tilted from an external torque to control the position of the ball on the beam.
+In our system, the ball rolls on the beam without slipping under the action of the force of gravity. The beam is tilted from an external torque to control 
 
-A PID controller has been implemented using an arduino nano. An IR sensor is used to measure the distance from the ball to the sensor (position), a servo motor applies an external torque to the beam and thus varies the angle and slope of the beam.
+An IR sensor is used to measure the distance from the ball to the sensor (position) and a servo motor applies an external torque to the beam and thus varies the angle and slope of the beam, changing the position of the ball on the beam.
 
-A PID controller continuously calculates an error value e(t) as the difference between a desired setpoint (SP) and a measured process variable (PV) and applies a correction based on proportional, integral, and derivative terms (denoted P, I, and D respectively), hence the name.
+A PID controller has been implemented using an arduino nano. The PID continuously calculates an error value e(t) as the difference between a desired setpoint (SP) and a measured process variable (PV) and applies a correction based on proportional, integral, and derivative terms (denoted P, I, and D respectively), hence the name.
 
 <a title="Arturo Urquizo, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:PID.svg"><img width="512" alt="PID" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/PID.svg/512px-PID.svg.png"></a>
 
-An smartphone app has been developed in Adroid Studio (Java programming language) to establish the desired setpoint. The application opens a bluetooth socket that connect our smartphone with a HC05 bluetooth module connected to the aformentioned Arduino NANO.
-
-The application consists of a simple GUI with a scroll bar, when used, the smartphone sends a integer through the previously established bluettoth communication.
+An smartphone app has been developed in Adroid Studio (Java programming language), it consists of a simple GUI with a scroll bar to establish the desired setpoint. First the application opens a bluetooth socket that connect our smartphone with a HC05 bluetooth module, mounted in the aformentioned Arduino NANO. Then when, by scrolling the bar, the desired distance is set; the smartphone sends a integer through the previously established bluetooth communication.
 
 [Click here or the image below to see the video](https://youtu.be/IA2fYVFnM1o)
 
+First video - Rough PID, not porperly tuned.
+
 <a href="https://youtu.be/IA2fYVFnM1o"><img src="https://i.ytimg.com/an_webp/IA2fYVFnM1o/mqdefault_6s.webp?du=3000&sqp=CNrAtKAG&rs=AOn4CLBUJrUQqyXa8eyyp4AMoruc1Cd0eA" width= 500px></a>
+
+Second Video - Fine Tuned PID
+
 
 Check the code in the Github Repository --> [Link to Repository](https://github.com/scostas54/PID-Ball-Beam)
 
