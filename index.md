@@ -38,14 +38,9 @@ A PID controller has been implemented using an arduino nano. The PID continuousl
 
 An smartphone app has been developed in Adroid Studio (Java programming language), it consists of a simple GUI with a scroll bar to establish the desired setpoint. First the application opens a bluetooth socket that connect our smartphone with a HC05 bluetooth module, mounted in the aformentioned Arduino NANO. Then when, by scrolling the bar, the desired distance is set; the smartphone sends a integer through the previously established bluetooth communication.
 
-[Click here or the image below to see the video](https://youtu.be/IA2fYVFnM1o)
+[First video - Rough PID, not porperly tuned](https://youtu.be/IA2fYVFnM1o)
 
-First video - Rough PID, not porperly tuned.
-
-<a href="https://youtu.be/IA2fYVFnM1o"><img src="https://i.ytimg.com/an_webp/IA2fYVFnM1o/mqdefault_6s.webp?du=3000&sqp=CNrAtKAG&rs=AOn4CLBUJrUQqyXa8eyyp4AMoruc1Cd0eA" width= 500px></a>
-
-Second Video - Fine Tuned PID
-
+[Second video - Fine Tuned PID](https://www.youtube.com/watch?v=pXXtBigsWxk)
 
 Check the code in the Github Repository --> [Link to Repository](https://github.com/scostas54/PID-Ball-Beam)
 
