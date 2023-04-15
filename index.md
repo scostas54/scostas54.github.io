@@ -30,6 +30,8 @@ Dynamic systems are systems that change or evolve in time according to a fixed r
 
 In our system, the ball rolls on the beam without slipping under the action of the force of gravity. The beam is tilted from an external torque to control 
 
+![image](https://user-images.githubusercontent.com/70905913/232246562-88fa3ada-4a3a-4d32-8638-594780ab2c7a.png)
+
 An IR sensor is used to measure the distance from the ball to the sensor (position) and a servo motor applies an external torque to the beam and thus varies the angle and slope of the beam, changing the position of the ball on the beam.
 
 A PID controller has been implemented using an arduino nano. The PID continuously calculates an error value e(t) as the difference between a desired setpoint (SP) and a measured process variable (PV) and applies a correction based on proportional, integral, and derivative terms (denoted P, I, and D respectively), hence the name.
