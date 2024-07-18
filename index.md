@@ -52,7 +52,7 @@ The purpose of this project is to develop an automated and easy-to-use hydroponi
 
 <table>
   <tr>
-    <td><img src="https://drive.google.com/uc?export=view&id=1lckodjqgPnASNYDFuCkUAGjMT8MpJpJC" alt="1" width = 400px></td>    
+    <td><img src="[https://drive.google.com/uc?export=view&id=1lckodjqgPnASNYDFuCkUAGjMT8MpJpJC](https://drive.usercontent.google.com/download?id=1lckodjqgPnASNYDFuCkUAGjMT8MpJpJC&export=view&authuser=0)" alt="1" width = 400px></td>    
     <td><img src="https://drive.google.com/uc?export=view&id=1snk4FFNHdyghvBcBQ0uam_Zl-F82w67O" align="top" alt="2" width = 650px></td>
    </tr> 
    <tr>      
